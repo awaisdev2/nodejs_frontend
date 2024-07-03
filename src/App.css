@@ -1,0 +1,16 @@
+.bg-custom-primary {
+  transition: all 0.3s ease-in-out;
+}
+.bg-custom-primary:hover {
+  background-color: #7f70f1 !important;
+}
+.bg-custom-secondary {
+    background-color: #E1E3EA;
+    transition: all 0.3s ease-in-out;
+}
+.bg-custom-secondary:hover {
+    background-color: #bfc0c3 !important;
+}
+.cursor-pointer {
+  cursor: pointer;
+}
